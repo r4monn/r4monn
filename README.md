@@ -3,7 +3,6 @@
 - 💼I'm currently working as an Administrative Assistant
 - 💻 I am currently looking for FrontEnd Development jobs.
 - 📜 I’m currently learning JavaScript, React.js.
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/r4monn">
