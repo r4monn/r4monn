@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa788&height=120&section=header"/>
+
 <h1 align="center">Hi there 👋, I'm Ramon Dias</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
