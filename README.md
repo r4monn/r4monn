@@ -5,7 +5,6 @@
 
 <br>
 
-- 💼I'm currently working as an Administrative Assistant
 - 💻 I am currently looking for FrontEnd Development jobs.
 - 📜 I’m currently learning **Next.js, UX Design**
 - 💬 Ask me about **ReactJS, Typescript, Javascript, CSS**
